@@ -51,6 +51,10 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Output Files
+outputs/
+chat_history.db
+
 # Translations
 *.mo
 *.pot
